@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lukavmm/Filmesflix/static/css/main.dd0babf4.css",
+    "main.js": "/lukavmm/Filmesflix/static/js/main.a6924981.js",
+    "index.html": "/lukavmm/Filmesflix/index.html",
+    "main.dd0babf4.css.map": "/lukavmm/Filmesflix/static/css/main.dd0babf4.css.map",
+    "main.a6924981.js.map": "/lukavmm/Filmesflix/static/js/main.a6924981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd0babf4.css",
+    "static/js/main.a6924981.js"
+  ]
+}
