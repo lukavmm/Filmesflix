@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lukavmm/Filmesflix/static/css/main.dd0babf4.css",
-    "main.js": "/lukavmm/Filmesflix/static/js/main.a6924981.js",
-    "index.html": "/lukavmm/Filmesflix/index.html",
-    "main.dd0babf4.css.map": "/lukavmm/Filmesflix/static/css/main.dd0babf4.css.map",
-    "main.a6924981.js.map": "/lukavmm/Filmesflix/static/js/main.a6924981.js.map"
+    "main.css": "/Filmesflix/static/css/main.dd0babf4.css",
+    "main.js": "/Filmesflix/static/js/main.a6924981.js",
+    "index.html": "/Filmesflix/index.html",
+    "main.dd0babf4.css.map": "/Filmesflix/static/css/main.dd0babf4.css.map",
+    "main.a6924981.js.map": "/Filmesflix/static/js/main.a6924981.js.map"
   },
   "entrypoints": [
     "static/css/main.dd0babf4.css",
